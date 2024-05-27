@@ -1,0 +1,866 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* +++++++++++++++++++++++++++++++++ section one ++++++++++++++++++++++++++++++++++++++++++  */
+
+body *{
+    font-family: 'Poppins', sans-serif;
+}
+
+.one{
+    background-image: url(images/two\ background.png);
+    background-size: 100%;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+
+.navbar-nav li{
+    padding: 0 10px;
+}
+.nav-item a{
+    color: #000 !important;;
+    font-weight: 600;
+    font-size: 17px;
+    
+}
+
+
+
+/* +++++++++++++++++++++++++++++++++ section two ++++++++++++++++++++++++++++++++++++++++++  */
+.two{
+    background-image: url(images/two\ background.png);
+    background-size: 100%;
+    padding: 5px 0 50px 0;
+}
+.written-one h1 {
+    font-weight: 800;
+    font-size: 56px;
+    font-family: 'Poppins', sans-serif;
+}
+.written-one p {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+.written-one input {
+    outline: skyblue;
+    color: #000;
+    text-align: center;
+    width: 190px;
+    height: 40px;
+    width: 190px;
+    font-family: 'Poppins', sans-serif;
+    margin: 10px 10px 10px 0;
+    padding-left: 10px;
+    outline: none;
+    border:1px solid #CBCBCB;
+    background-color: #FFF9F2;
+}
+.written-one a{
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 55px;
+    background: linear-gradient(to left, #fd4a00 50%, white 50%) right;
+    background-size: 200%;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    transition: .7s;
+}
+.written-one a:hover {
+    background-position: left;
+    color: #fd4a00;
+    border: 1px solid #fd4a00;
+}
+
+.written-one img{
+    width: 75%;
+    padding-top: 33px;
+}
+
+.written-two img{
+    width: 100%;
+}
+
+/* +++++++++++++++++++++++++++++++++ section three ++++++++++++++++++++++++++++++++++++++++++  */
+.three{
+    background: #f1f1f1;
+}
+.three-slider img{
+    width: 100px;
+    padding: 30px;
+}
+
+/* +++++++++++++++++++++++++++++++++ section four ++++++++++++++++++++++++++++++++++++++++++  */
+
+.four{
+    background-image: url(images/two\ background.png);
+    background-size: 100%;
+    padding: 35px 0 49px 0;
+}
+.row.four-sub p {
+    text-align: left;
+}
+.service{
+    text-align: center;
+}
+.service h1{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.service p{
+    padding-top: 19px;
+    font-family: 'Poppins', sans-serif;
+}
+.col{
+    flex-grow: 1;
+    flex-basis: 0;
+    max-width: 100%;
+}
+.four-one{
+    text-align: center;
+    padding: 0 ;
+}
+.four-one p {
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+}
+.four-one img{
+    width:100%;
+}
+
+
+.four-two{
+    text-align: center;
+}
+.four-two p {
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+}
+.four-two img{
+    width: 100%;
+}
+
+.four-three{
+    text-align: center;
+}
+.four-three p {
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+}
+.four-three img{
+    width: 100%;
+}
+.four-four{
+    text-align: center;
+}
+.four-four p {
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+}
+.four-four img{
+    width: 100%;
+}
+.four-five{
+    text-align: center;
+}
+.four-five p {
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+}
+.four-five img{
+    width: 100%;
+}
+.four-six{
+    text-align: center;
+}
+.four-six p {
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+}
+.four-six img{
+    width: 100%;
+}
+
+
+
+/* +++++++++++++++++++++++++++++++++ section five ++++++++++++++++++++++++++++++++++++++++++  */
+.five{
+    background-image: url(images/two\ background.png);
+    background-size: 100%;
+}
+.writing h1{
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.five-one{
+    margin-top: 5%;
+    margin-left: 22%;
+}
+
+.five-one img{
+    width: 400px;
+    height: 450px;
+}
+.five-two{
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+.five-two h1{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.five-two p{
+    font-size: 15px;
+}
+.get{
+    margin-top: 12%;
+}
+.get a{
+    text-decoration: none;
+    font-size: 21px;
+    font-family: 'Poppins', sans-serif;
+    padding: 13px 50px;
+    font-weight: 600;
+    background: linear-gradient(to left, #fd4a00 50%, white 50%) right;
+    background-size: 200%;
+    color: white;
+    transition: .7s;
+}
+.get a:hover {
+    background-position: left;
+    color: #fd4a00;
+    border: 1px solid #fd4a00;
+}
+
+
+
+/* +++++++++++++++++++++++++++++++++ section six ++++++++++++++++++++++++++++++++++++++++++  */
+.six{
+    background-image: url(images/two\ background.png);
+    background-size: 100%;
+    padding-bottom: 30px;
+   
+}
+.quality{
+    text-align: center;
+    padding: 60px 0 56px 0;
+}
+.quality h1{
+        font-weight: 800;
+        font-size: 44px;
+        font-family: 'Poppins', sans-serif;
+}
+
+.six-one h1{
+    font-size: 23px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 1px solid #707070;
+    width: 85%;
+    padding: 5px;
+}
+.six-two h1{
+    font-size: 23px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 1px solid #707070;
+    width: 85%;
+    padding: 5px;
+}
+.six-three h1{
+    font-size: 23px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 1px solid #707070;
+    width: 85%;
+    padding: 5px;
+}
+
+
+/* +++++++++++++++++++++++++++++++++ section seven ++++++++++++++++++++++++++++++++++++++++++  */
+.seven{
+    background-image: url(images/two\ background.png);
+    background-size: 100%;
+}
+.seven-one{
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+.seven-one h1{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    border-top:2px solid #CBCBCB;
+    padding: 10px;
+}
+.seven-one p{
+    font-size: 15px;
+}
+.getone{
+    margin-top: 12%;
+}
+.getone a{
+    text-decoration: none;
+    font-size: 21px;
+    font-family: 'Poppins', sans-serif;
+    padding: 13px 50px;
+    font-weight: 600;
+    background: linear-gradient(to left, #fd4a00 50%, white 50%) right;
+    background-size: 200%;
+    color: white;
+    transition: .7s;
+}
+.getone a:hover {
+    background-position: left;
+    color: #fd4a00;
+    border: 1px solid #fd4a00;
+}
+.seven-two{
+    margin-top: 5%;
+    margin-left: 22%;
+}
+
+.seven-two img{
+    width: 460px;
+    height: 450px;
+}
+
+
+/* +++++++++++++++++++++++++++++++++ section eight ++++++++++++++++++++++++++++++++++++++++++  */
+.eight{
+    background-image: url(images/two\ background.png);
+    background-size: 100%;
+
+}
+.it-work h1{
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    padding: 30px 0;
+}
+.it-work{
+    border-bottom: 2px solid #c7c7c7;
+}
+.working{
+    padding: 50px 10px;
+}
+.workone{
+    text-align: center;
+
+}
+.workone h3{
+    color: #fd4a00;
+    font-weight: 700;
+    font-size: 45px;
+    font-family: 'Poppins', sans-serif;
+}
+.workone h4{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+
+}
+.workone img{
+    width: 40px;
+    height: 180px;
+    object-fit: contain;
+}
+.worktwo{
+    text-align: center;
+}
+.worktwo h3{
+    color: #fd4a00;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+}
+.worktwo h4{
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+}
+.worktwo img{
+    width: 40px;
+    height: 180px;
+    object-fit: contain;
+}
+.workthree{
+    text-align: center;
+}
+.workthree h3{
+    color: #fd4a00;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+}
+.workthree h4{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.workthree img{
+    width: 40px;
+    height: 180px;
+    object-fit: contain;
+}
+.workfour{
+    text-align: center;
+}
+.workfour h3{
+    color: #fd4a00;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+}
+.workfour h4{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.workfour img{
+    width: 40px;
+    height: 180px;
+    object-fit: contain;
+}
+.workfive{
+    text-align: center;
+}
+.workfive h3{
+    color: #fd4a00;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+}
+.workfive h4{
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.workfive img{
+    width: 40px;
+    height: 180px;
+    object-fit: contain;
+}
+
+/* +++++++++++++++++++++++++++++++++ section ten ++++++++++++++++++++++++++++++++++++++++++  */
+.ten{
+    text-align: center;
+    padding: 30px 0;
+}
+.tenone img, .tentwo img , .tenthree img  {
+    margin: 15px auto;
+}
+
+
+/* +++++++++++++++++++++++++++++++++ section nine ++++++++++++++++++++++++++++++++++++++++++  */
+
+.nine{
+    background-color: #fd4a00;
+ }
+ .t-one{
+     padding-top: 50px;
+     padding-bottom: 30px;
+     padding-right: 20px;
+    
+ }
+ .t-one p{
+     font-weight: 400;
+     font-size: 14px;
+     font-weight: 400;
+     font-family: 'Poppins', sans-serif;
+     color: #fff !important;;
+ }
+
+ .t-one a{
+     text-decoration: none;
+     font-size: 16px;
+     font-weight: 400;
+     font-family: 'Poppins', sans-serif;
+     color: #fff !important;
+ }
+.t-one a:hover{
+    text-decoration: underline;
+    color: #fff !important;
+}
+.t-one h4{
+    color: #fff !important;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    padding-top: 135px;
+}
+.paypal{
+    width: 100%;
+    line-height: 0;
+}
+
+.t-two{
+    padding-top: 50px;
+}
+.explore h3{
+    color: #fff !important;
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+.explore ul{
+    margin-left: -30px;
+    
+}
+.explore li{
+    list-style: none;
+
+}
+.explore a{
+    text-decoration: none;
+    color: #fff !important;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+
+
+.t-three{
+    padding-top: 60px;
+}
+
+.any h2{
+    color: #fff !important;
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+.any input{
+    width: 95%;
+    outline: none;
+    height: 48px;
+    padding-left: 15px;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid #fff !important;
+    background: none;
+    border-radius: 5px;
+}
+
+.any input::placeholder{
+    color: #fff !important ;
+    
+}
+
+.gettwo a{
+    text-decoration: none;
+    font-size: 21px;
+    padding: 10px 40px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to left, #fff 50%, #fd4a00 50%) right;
+    background-size: 200%;
+    color: #fd4a00;
+    transition: .7s;
+}
+.gettwo a:hover {
+    background-position: left;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.social{
+    padding-top: 30px;
+}
+.social h3{
+    color: #fff !important;
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+.social i{
+    margin-top: 5%;
+    color: #fff !important;
+    font-size: 35px;
+    width: 40px;
+}
+
+
+/*__________________________________ for mobile________________________________________________________ */
+@media only screen and (max-width:767px){
+    html,body{
+        overflow-x: hidden;
+    }
+
+/**************************************  two ************************************************* */
+.written-one br{
+    display: none;
+}
+.written-one h1 {
+    font-weight: 800;
+    font-size: 47px;
+}
+.written-one input {
+    width: 130px;
+}
+.written-one a {
+    padding: 10px 20px;
+}
+.written-one img {
+    width: 100%;
+    padding-bottom: 20px;
+}
+.written-two img {
+   padding-bottom: 20px;
+}
+
+
+/**************************************  three ************************************************* */
+.service br{
+    display: none;
+}
+.four-one img {
+    width: unset;
+}
+.four-two img {
+    width: unset;
+}
+.four-three img {
+    width: unset;
+}
+.four-four img {
+    width: unset;
+}
+.four-five img {
+    width: unset;
+}
+
+/**************************************  five ************************************************* */
+.five {
+    padding-bottom: 9px;
+}
+.five-one {
+    margin-left: 1%;
+}
+.five-one img {
+    width: 100%;
+    display: block;
+}
+.five-two br{
+    display: none;
+}
+/**************************************  six ************************************************* */
+.six {
+    padding-bottom: 0;
+}
+.quality {
+     padding: 30px 0 17px 0;
+}
+.quality br{
+  display: none;
+}
+.quality h1 {
+    font-size: 29px;
+}
+.six-one {
+    margin-left: 3%;
+}
+.six-two {
+    margin-left: 3%;
+}
+.six-three {
+    margin-left: 3%;
+}
+/**************************************  seven ************************************************* */
+.seven {
+   padding-bottom: 0;
+}
+.seven-one br{
+    display: none;
+}
+.seven-two {
+    margin-left: 1%;
+}
+.seven-two img {
+    width: 100%;
+}
+/**************************************  nine ************************************************* */
+.nine {
+    background-color: #fd4a00;
+    text-align: center;
+}
+}
+
+
+
+
+/* kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk tablet  00000000000000000000000000000000000000000000 */
+@media only screen and (min-width:768px) and (max-width:991px){
+    /**************************************  one ************************************************* */
+    .nav-item a {
+        font-size: 13px;
+    }
+/**************************************  two ************************************************* */
+    .written-one h1 {
+        font-weight: 800;
+        font-size: 39px;
+    }
+    .written-one br{
+        display: none;
+    }
+    .written-one input{
+        width: 149px;
+    }
+    .written-one a {
+        padding: 10px 35px;
+    }
+    .written-one img {
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 17px;
+    }
+    .written-two img {
+        width: 100%;
+        height: 372px;
+    }
+/**************************************  four ************************************************* */
+    .service br {
+        display: none;
+    }
+    .col-lg-1.col-sm-1.col-md-1 {
+        display: none;
+    }
+
+/**************************************  five ************************************************* */
+.five {
+    padding-bottom: 0;
+}
+    .five-one {
+        margin-top: 11%;
+        margin-left: 0;
+    }
+    .five-one img {
+        width: 100%;
+    }
+    .five-two {
+        margin-top: 27%;
+    }
+    .five-two h1 {
+    font-size: 28px;
+    }
+    .five-two br {
+        display: none;
+    }
+
+
+    /**************************************  six ************************************************* */
+    .six {
+        padding-bottom: 0;
+    }
+    .quality {
+        padding: 60px 0 58px 0;
+    }
+      .quality br{
+          display: none;
+      }
+      .quality h1 {
+        font-weight: 800;
+        font-size: 31px;
+    }
+
+    .six-one br{
+        display: none;
+    }
+    .six-one h1{
+        font-size: 14px;
+    }
+    .six-two br{
+        display: none;
+    }
+    .six-two h1{
+        font-size: 15px;
+    }
+    .six-three br{
+        display: none;
+    }
+    .six-three h1{
+        font-size: 15px;
+    }
+
+ /**************************************  seven ************************************************* */
+ .seven{
+     padding-bottom: 0;
+ }
+    .seven-one {
+        margin-top: 22%;
+    }
+    .seven-one h1 {
+        border-top: none;
+        font-size: 27px;
+    }
+    .seven-one br {
+        display: none;
+    }
+    .seven-two {
+        margin-top: 23%;
+        margin-left: 2%;
+    }
+    .seven-two img {
+        width: 100%;
+        height: 400px;
+    }
+
+/**************************************  eight ************************************************* */
+    .it-work h1 {
+        text-align: center;
+        font-weight: 700;
+        padding: 56px 0;
+    }
+    .workone h4 {
+       font-size: 16px;
+    }
+    .worktwo h4 {
+        font-size: 16px;
+     }
+     .workthree h4 {
+        font-size: 16px;
+     }
+     .workfour h4 {
+        font-size: 16px;
+     }
+     .workfive h4 {
+        font-size: 16px;
+     }
+
+/**************************************  nine ************************************************* */
+     .t-one img {
+        width: 75px;
+    }
+    .t-one br {
+        display: none;
+    }
+    .t-one h4 {
+        font-size: 18px;
+        padding-top: 68px;
+    }
+    .paypal img {
+        width: 200px;
+    }
+
+    .explore h3 {
+        font-size: 28px;
+        margin-top: 20px;
+    }
+    .explore a {
+        font-size: 15px;
+    }
+    .any h2 {
+        font-size: 24px;
+    }
+    .any input {
+        width: 100%;
+        height: 38px;
+    }
+    .gettwo a {
+        padding: 7px 37px;
+    }
+    .social h3 {
+     
+        font-weight: 800;
+        margin-top: 27px;
+        font-size: 20px;
+    }
+    .social i {
+        margin-top: 3%;
+        font-size: 20px;
+        width: 23px;
+    }
+}
